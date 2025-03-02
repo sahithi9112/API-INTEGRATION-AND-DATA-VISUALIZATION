@@ -25,7 +25,9 @@ Agriculture – Assists farmers in weather-based crop planning.
 Travel Apps – Provides weather forecasts for travelers.
 Education & Research – Supports data analysis and forecasting studies.
 
+OUTPUT
 
+![Image](https://github.com/user-attachments/assets/1e217837-cf80-4d9a-9e53-393d9ad07fe0)
 
 
 
